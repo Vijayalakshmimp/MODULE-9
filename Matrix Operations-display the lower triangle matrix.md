@@ -4,7 +4,6 @@
 To write a Python program to read a matrix and display the lower triangle Matrix.
 
 ---
-
 ## 🧠 ALGORITHM:
 
 1. Input n (size of square matrix).
@@ -15,7 +14,6 @@ To write a Python program to read a matrix and display the lower triangle Matrix
 6. Move to a new line after each row.
 
 ---
-
 ## 💻 PROGRAM:
 ~~~
 def read_matrix(n):
